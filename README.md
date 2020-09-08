@@ -8,7 +8,7 @@
 Hi, I'm Winnie—an undergrad at the University of Toronto studying Computer Science. I love to get involved in different activities and my curiosity allows me to try new things. I am passionate about technology, an ACNH + Persona player, and a hobbyist designer ✨
 
 ## Experience
-⚙️ Incoming Visiting Platform Reliability Engineer Co-op @ Manulife <br />
+⚙️ Visiting Platform Reliability Engineer Co-op @ Manulife <br />
 🖌️ Frontend Developer @ LIVE Competition <br />
 💻 Developer Co-op @ RBC <br />
 📋 CS Teaching Assistant @ UTSC
