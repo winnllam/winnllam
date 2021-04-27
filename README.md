@@ -5,15 +5,20 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/winnllam/)](https://instagram.com/winnllam)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:winnieee.lam00@gmail.com)](mailto:winnieee.lam00@gmail.com)
 
-Hi, I'm Winnie—an undergrad at the University of Toronto studying Computer Science. I love to get involved in different activities and my curiosity allows me to try new things. I am passionate about technology, an ACNH + RPG gamer, and a hobbyist designer ✨
+Hi, I'm Winnie—a 4th year undergrad at the University of Toronto studying Computer Science. I love to get involved in different activities and my curiosity allows me to try new things. I am passionate about technology, an ACNH + RPG gamer, and a hobbyist artist ✨
 
-## Experience
+### Currently
+🖥️ Full Stack Software Developer @ Ada Support Inc <br />
+🖌️ Vice President of Engineering @ LIVE Competition <br />
+
+### Experience
 ⚙️ Visiting Platform Reliability Engineer Co-op @ Manulife <br />
 🖌️ Frontend Developer @ LIVE Competition <br />
 💻 Developer Co-op @ RBC <br />
 📋 CS Teaching Assistant @ UTSC
 
-## Involvement
+### Involvement
+🙇‍ Mentor @ Kurius <br />
 📚 Mentorship Program Coordinator and Mentor @ WiCSM <br />
 🎓 Campus Student Amassador @ UTSC
 
