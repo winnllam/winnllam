@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/winnllam/)](https://instagram.com/winnllam)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:winnieee.lam00@gmail.com)](mailto:winnieee.lam00@gmail.com)
 
-Hi, I'm Winnie—a 4th year undergrad at the University of Toronto studying Computer Science. I love to get involved in different activities and my curiosity allows me to try new things. I am passionate about technology, an ACNH + RPG gamer, and a hobbyist artist ✨
+Hi, I'm Winnie—a 4th year undergrad at the University of Toronto studying Computer Science. I love to get involved in different activities and my curiosity allows me to try new things. I am passionate about technology, an RPG gamer, and a hobbyist artist ✨
 
 ### Currently
 🖥️ Full Stack Software Developer @ Ada Support Inc <br />
@@ -21,6 +21,18 @@ Hi, I'm Winnie—a 4th year undergrad at the University of Toronto studying Comp
 🙇‍ Mentor @ Kurius <br />
 📚 Mentorship Program Coordinator and Mentor @ WiCSM <br />
 🎓 Campus Student Amassador @ UTSC
+
+<br>
+<p align=center>
+  <a href="https://github.com/winnllam/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=winnllam&show_icons=true&theme=dracula">
+  </a>
+  <a href="https://github.com/winnllam/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winnllam&langs_count=8&layout=compact" />
+  </a>
+</p>
+
+<br>
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/winnllam/)
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://github.com/winnllam/)
