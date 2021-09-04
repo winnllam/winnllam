@@ -7,14 +7,14 @@
 Hi, I'm Winnie—a 4th year undergrad at the University of Toronto studying Computer Science and Statistics. I love to get involved in different activities and my curiosity allows me to try new things. I am passionate about technology, an RPG gamer, and a hobbyist artist ✨
 
 ### Currently
-🖥️ Full Stack Developer Co-op @ Ada Support <br />
-🖌️ Vice President of Engineering @ LIVE Competition <br />
+📋 CS Teaching Assistant @ UTSC <br />
+🖌️ Vice President of Engineering @ LIVE Competition
 
 ### Formerly
+🖥️ Full Stack Developer Co-op @ Ada Support <br />
 ⚙️ Platform Reliability Engineer Co-op @ Manulife <br />
 🖌️ Frontend Developer @ LIVE Competition <br />
-💻 Developer Co-op @ RBC <br />
-📋 CS Teaching Assistant @ UTSC
+💻 Developer Co-op @ RBC
 
 ### Involvement
 🙇‍ Mentor @ Kurius <br />
