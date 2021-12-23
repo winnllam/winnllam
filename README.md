@@ -24,8 +24,7 @@ Hi, I'm Winnie—a 4th year undergrad at the University of Toronto studying Comp
 
 <br>
 <p align=center>
-   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=winnllam&show_icons=true&theme=dracula">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winnllam&langs_count=8&layout=compact" />
+   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=winnllam&show_icons=true&theme=dracula"/>
 </p>
 <p align=center>
    <img height=150 src="https://github-readme-streak-stats.herokuapp.com?user=winnllam&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D"/>
