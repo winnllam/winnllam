@@ -8,13 +8,12 @@ Hi, I'm Winnie—a 4th year undergrad at the University of Toronto studying Comp
 
 ### Currently
 📦 Incoming Software Development Engineer @ Amazon <br />
-📋 CS Teaching Assistant @ UTSC <br />
-🖌️ Vice President of Engineering @ LIVE Competition
+📋 CS Teaching Assistant @ UTSC
 
 ### Formerly
+🖌️ Vice President of Engineering, Frontend Developer @ LIVE Competition <br />
 🖥️ Full Stack Developer Co-op @ Ada Support <br />
 ⚙️ Platform Reliability Engineer Co-op @ Manulife <br />
-🖌️ Frontend Developer @ LIVE Competition <br />
 💻 Developer Co-op @ RBC
 
 ### Involvement
