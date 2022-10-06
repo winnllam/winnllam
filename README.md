@@ -7,7 +7,7 @@
 Hi, I'm Winnie—a 4th year undergrad at the University of Toronto studying Computer Science and Statistics. I love to get involved in different activities and my curiosity allows me to try new things. I am passionate about technology, an RPG gamer, and a hobbyist artist ✨
 
 ### Currently 
-📋 CS Teaching Assistant @ UTSC
+📋 CS Teaching Assistant @ UTSC <br />
 👭 First Year Learning Communities (FLC) Leader @ UTSC
 
 ### Formerly
