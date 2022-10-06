@@ -6,11 +6,12 @@
 
 Hi, I'm Winnie—a 4th year undergrad at the University of Toronto studying Computer Science and Statistics. I love to get involved in different activities and my curiosity allows me to try new things. I am passionate about technology, an RPG gamer, and a hobbyist artist ✨
 
-### Currently
-📦 Incoming Software Development Engineer @ Amazon <br />
+### Currently 
 📋 CS Teaching Assistant @ UTSC
+👭 First Year Learning Communities (FLC) Leader @ UTSC
 
 ### Formerly
+📦 Software Development Engineer Intern @ Amazon <br />
 🖌️ Vice President of Engineering, Frontend Developer @ LIVE Competition <br />
 🖥️ Full Stack Developer Co-op @ Ada Support <br />
 ⚙️ Platform Reliability Engineer Co-op @ Manulife <br />
