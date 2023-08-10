@@ -11,7 +11,7 @@ Hi, I'm Winnie—a 5th year undergrad at the University of Toronto studying Comp
 
 ### Formerly
 📋 CS Teaching Assistant @ UTSC <br />
-👭 First Year Learning Communities (FLC) Leader @ UTSC
+👭 First Year Learning Communities (FLC) Leader @ UTSC <br />
 📦 Software Development Engineer Intern @ Amazon <br />
 🖌️ Vice President of Engineering, Frontend Developer @ LIVE Competition <br />
 🖥️ Full Stack Developer Co-op @ Ada Support <br />
