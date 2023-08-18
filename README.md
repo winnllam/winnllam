@@ -6,9 +6,6 @@
 
 Hi, I'm Winnie—a 5th year undergrad at the University of Toronto studying Computer Science, spealizing in Software Engineering. I love to get involved in different activities and my curiosity allows me to try new things. I am passionate about technology and design, an RPG gamer, and a hobbyist artist ✨
 
-### Incoming
-📦 Software Development Engineer @ Amazon <br />
-
 ### Formerly
 📋 CS Teaching Assistant @ UTSC <br />
 👭 First Year Learning Communities (FLC) Leader @ UTSC <br />
