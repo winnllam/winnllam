@@ -7,10 +7,10 @@
 Hi, I'm Winnie—a recent graduate form the University of Toronto studying Computer Science, spealizing in Software Engineering. I love to get involved in different activities and my curiosity allows me to try new things. I am passionate about technology and design, an RPG gamer, and a hobbyist artist ✨
 
 ### Currently
-🐦‍⬛ Full-stack Software Developer @ SuperVisas <br />
-🤵‍♀️ Workshop Developer @ HER CODE CAMP
+🐦‍⬛ Full-stack Software Developer @ SuperVisas
 
 ### Formerly
+🤵‍♀️ Workshop Developer @ HER CODE CAMP <br />
 📋 CS Teaching Assistant @ UTSC <br />
 👭 First Year Learning Communities (FLC) Leader @ UTSC <br />
 📦 Software Development Engineer Intern @ Amazon <br />
