@@ -23,12 +23,3 @@ Hi, I'm Winnie—a recent graduate form the University of Toronto studying Compu
 🙇‍ Mentor @ Kurius <br />
 📚 Mentorship Program Coordinator & Mentor @ WiCSM <br />
 🎓 Campus Student Amassador & Tour Guide @ UTSC
-
-<br>
-<p align=center>
-   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=winnllam&show_icons=true&theme=dracula"/>
-</p>
-<p align=center>
-   <img height=150 src="https://github-readme-streak-stats.herokuapp.com?user=winnllam&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
-<br>
