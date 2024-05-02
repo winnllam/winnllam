@@ -10,7 +10,7 @@ Hi, I'm Winnie — a 2023 graduate from the University of Toronto studying Compu
 Looking for full-time full stack, backend, or frontend work!
 
 ### Formerly
-🐦‍⬛ Full-stack Software Developer @ SuperVisas
+🐦‍⬛ Full-stack Software Developer @ SuperVisas <br />
 📋 CS Teaching Assistant @ UTSC <br />
 📦 Software Development Engineer Intern @ Amazon <br />
 🖌️ Vice President of Engineering, Frontend Developer @ LIVE Competition <br />
