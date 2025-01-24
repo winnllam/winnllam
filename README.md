@@ -7,18 +7,19 @@
 Hi, I'm Winnie — a graduate of the University of Toronto, studying Computer Science with a specialization in Software Engineering. I love to get involved in different activities and my curiosity allows me to try new things. I am passionate about technology and design. I am an RPG gamer and a hobbyist artist ✨
 
 ### Currently
-🚙 Software Engineer @ EV.com
+🛫 Software Engineer @ Boundless Immigration
 
 ### Formerly
+🚙 Software Engineer @ EV.com <br />
 🐦‍⬛ Full-stack Software Developer @ SuperVisas <br />
-📋 CS Teaching Assistant @ UTSC <br />
 📦 Software Development Engineer Intern @ Amazon <br />
-🖌️ Vice President of Engineering, Frontend Developer @ LIVE Competition <br />
 🖥️ Full Stack Developer Co-op @ Ada Support <br />
 ⚙️ Platform Reliability Engineer Co-op @ Manulife <br />
 💻 Developer Co-op @ RBC
 
 ### Involvement
+📋 CS Teaching Assistant @ UTSC <br />
+🖌️ Vice President of Engineering, Frontend Developer @ LIVE Competition <br />
 🤵‍♀️ Workshop Developer @ HER CODE CAMP <br />
 👭 First Year Learning Communities (FLC) Leader @ UTSC <br />
 🙇‍ Mentor @ Kurius <br />
